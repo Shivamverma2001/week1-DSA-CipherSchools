@@ -1,4 +1,4 @@
-public class Lecture1 {
+public class Lecture2 {
     /**
      * People meet each other or not
      * 
